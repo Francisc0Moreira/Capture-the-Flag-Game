@@ -1,0 +1,94 @@
+Numero_vertices:
+10
+Local
+Portao;
+Edificio principal;
+Buffet;
+Cantina;
+Auditorio1;
+P12;
+P15;
+Biblioteca;
+Estacionamento;
+Conexoes
+Portao;Portao;0.0
+Portao;Edificio principal;1.0
+Portao;Buffet;1.0
+Portao;Cantina;7.0
+Portao;Auditorio1;0.0
+Portao;P12;0.0
+Portao;P15;0.0
+Portao;Biblioteca;0.0
+Portao;Estacionamento;0.0
+Edificio principal;Portao;15.0
+Edificio principal;Edificio principal;0.0
+Edificio principal;Buffet;10.0
+Edificio principal;Cantina;12.0
+Edificio principal;Auditorio1;14.0
+Edificio principal;P12;0.0
+Edificio principal;P15;0.0
+Edificio principal;Biblioteca;0.0
+Edificio principal;Estacionamento;0.0
+Buffet;Portao;9.0
+Buffet;Edificio principal;5.0
+Buffet;Buffet;0.0
+Buffet;Cantina;9.0
+Buffet;Auditorio1;0.0
+Buffet;P12;0.0
+Buffet;P15;0.0
+Buffet;Biblioteca;0.0
+Buffet;Estacionamento;0.0
+Cantina;Portao;0.0
+Cantina;Edificio principal;0.0
+Cantina;Buffet;9.0
+Cantina;Cantina;0.0
+Cantina;Auditorio1;9.0
+Cantina;P12;10.0
+Cantina;P15;0.0
+Cantina;Biblioteca;0.0
+Cantina;Estacionamento;0.0
+Auditorio1;Portao;0.0
+Auditorio1;Edificio principal;7.0
+Auditorio1;Buffet;0.0
+Auditorio1;Cantina;0.0
+Auditorio1;Auditorio1;0.0
+Auditorio1;P12;11.0
+Auditorio1;P15;13.0
+Auditorio1;Biblioteca;0.0
+Auditorio1;Estacionamento;0.0
+P12;Portao;0.0
+P12;Edificio principal;0.0
+P12;Buffet;1.0
+P12;Cantina;14.0
+P12;Auditorio1;13.0
+P12;P12;0.0
+P12;P15;8.0
+P12;Biblioteca;11.0
+P12;Estacionamento;0.0
+P15;Portao;0.0
+P15;Edificio principal;0.0
+P15;Buffet;0.0
+P15;Cantina;0.0
+P15;Auditorio1;8.0
+P15;P12;11.0
+P15;P15;0.0
+P15;Biblioteca;0.0
+P15;Estacionamento;12.0
+Biblioteca;Portao;0.0
+Biblioteca;Edificio principal;0.0
+Biblioteca;Buffet;0.0
+Biblioteca;Cantina;0.0
+Biblioteca;Auditorio1;0.0
+Biblioteca;P12;14.0
+Biblioteca;P15;5.0
+Biblioteca;Biblioteca;0.0
+Biblioteca;Estacionamento;2.0
+Estacionamento;Portao;0.0
+Estacionamento;Edificio principal;0.0
+Estacionamento;Buffet;0.0
+Estacionamento;Cantina;0.0
+Estacionamento;Auditorio1;0.0
+Estacionamento;P12;10.0
+Estacionamento;P15;2.0
+Estacionamento;Biblioteca;13.0
+Estacionamento;Estacionamento;0.0
